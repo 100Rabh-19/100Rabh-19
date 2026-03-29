@@ -4,11 +4,13 @@
 
 I build **real-world AI and computer vision systems** focused on solving practical problems — not just academic exercises. My work revolves around **human-centered AI**, including recognition systems, behavioral analysis, and automation.
 
-📫 Connect With Me
-💼 LinkedIn: https://www.linkedin.com/in/saurabh-sharma19
-📧 Email: rabhs1212@gmail.com
-📱 Phone: +91 9568668713
+📫 Connect With Me  
 
+💼 LinkedIn: https://www.linkedin.com/in/saurabh-sharma19  
+
+📧 Email: rabhs1212@gmail.com  
+
+📱 Phone: +91 9568668713  
 ---
 
 ## 🚀 What I'm Currently Working On
