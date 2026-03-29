@@ -1,6 +1,6 @@
-              # 👋 Hi, I'm Saurabh Sharma
+# 👋 Hi, I'm Saurabh Sharma
 
-        🎓 BTech Student | 💻 Python Developer | 🤖 Machine Learning Enthusiast
+🎓 BTech Student | 💻 Python Developer | 🤖 Machine Learning Enthusiast
 
 I build **real-world AI and computer vision systems** focused on solving practical problems — not just academic exercises. My work revolves around **human-centered AI**, including recognition systems, behavioral analysis, and automation.
 
