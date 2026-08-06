@@ -22,15 +22,9 @@ I build real-world AI and computer vision systems focused on solving practical p
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=100Rabh-19&show_icons=true&bg_color=F0EAD6&title_color=2B2B2B&text_color=2B2B2B&icon_color=4FA8E0&border_color=2B2B2B&hide_border=false&count_private=true" alt="GitHub Stats" height="180"/>
 <img src="https://streak-stats.demolab.com/?user=100Rabh-19&background=F0EAD6&border=2B2B2B&stroke=2B2B2B&ring=EF6C8E&fire=F2B84B&currStreakLabel=2B2B2B&currStreakNum=2B2B2B&sideNums=2B2B2B&sideLabels=2B2B2B&dates=6B6B6B&hide_border=false" alt="GitHub Streak" height="180"/>
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100Rabh-19&layout=donut&bg_color=F0EAD6&title_color=2B2B2B&text_color=2B2B2B&border_color=2B2B2B&hide_border=false&langs_count=8" alt="Top Languages" height="220"/>
-
 </div>
-
 
 <br/>
 
