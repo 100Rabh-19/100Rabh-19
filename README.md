@@ -1,109 +1,138 @@
-# Saurabh Sharma
+<div align="center">
 
-**BTech Student · Python Developer · Machine Learning & Computer Vision**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2B2B2B&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Saurabh+Sharma;BTech+Student+%C2%B7+Python+Developer;Machine+Learning+%26+Computer+Vision;Building+AI+that+ships%2C+not+just+demos." alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-saurabh--sharma19-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-sharma19)
-[![Email](https://img.shields.io/badge/Email-rabhs1212@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rabhs1212@gmail.com)
-![Phone](https://img.shields.io/badge/Phone-+91_9568668713-25D366?style=flat&logo=whatsapp&logoColor=white)
+<br/>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-saurabh--sharma19-4FA8E0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-sharma19)
+[![Email](https://img.shields.io/badge/Email-rabhs1212%40gmail.com-EF6C8E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rabhs1212@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B91_9568668713-4FB477?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919568668713)
+
+</div>
+
+<br/>
 
 ## About Me
 
-I build real-world AI and computer vision systems focused on solving practical problems. My work revolves around human-centered AI — including recognition systems, behavioral analysis, and automation. I prefer deploying working systems over academic exercises.
+I build real-world AI and computer vision systems focused on solving practical problems. My work revolves around human-centered AI — recognition systems, behavioral analysis, and automation — and increasingly around **LLM-powered agents and retrieval pipelines**. I prefer deploying working systems over academic exercises.
 
----
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=F0EAD6&title_color=2B2B2B&text_color=2B2B2B&icon_color=4FA8E0&border_color=2B2B2B&hide_border=false&count_private=true" alt="GitHub Stats" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&background=F0EAD6&border=2B2B2B&stroke=2B2B2B&ring=EF6C8E&fire=F2B84B&currStreakLabel=2B2B2B&currStreakNum=2B2B2B&sideNums=2B2B2B&sideLabels=2B2B2B&dates=6B6B6B&hide_border=false" alt="GitHub Streak" height="180"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=donut&bg_color=F0EAD6&title_color=2B2B2B&text_color=2B2B2B&border_color=2B2B2B&hide_border=false&langs_count=8" alt="Top Languages" height="220"/>
+
+</div>
+
+> Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub username in all three image URLs — the cards render live, so once that's in place the stats and streak update automatically.
+
+<br/>
 
 ## Currently Working On
 
 | Project | Status |
 |---|---|
-| Person Recognition System (face-based identification) | Active |
-| Missing Person Identification System (age progression via ML) | Active |
-| YOLO-based Object Detection Model | Active |
-| Hand Gesture Controlled Mouse using OpenCV & MediaPipe | Active |
+| Person Recognition System (face-based identification) | 🟢 Active |
+| Missing Person Identification System (age progression via ML) | 🟢 Active |
+| YOLO-based Object Detection Model | 🟢 Active |
+| Hand Gesture Controlled Mouse using OpenCV & MediaPipe | 🟢 Active |
 
----
+<br/>
 
 ## Featured Projects
 
 ### Missing Person Identification System
 A machine learning system that predicts how a person would look after several years using age progression techniques.
-
 - **Focus:** Real-world social impact
 - **Tech:** Python · ML Models · Image Processing
 
----
-
 ### Hand Gesture Mouse Controller
 Control your computer using hand gestures detected via webcam — no additional hardware required.
-
 - **Focus:** Real-time human-computer interaction
 - **Tech:** OpenCV · MediaPipe · Python
 
----
-
 ### YOLO Object Detection System
 Real-time multi-object detection for live video streams, balancing inference speed with accuracy.
-
 - **Focus:** Speed + Accuracy
 - **Tech:** YOLO · Python · Computer Vision
 
----
-
 ### Face Recognition System *(In Progress)*
 Identifies and verifies individuals using facial features for access control and identification workflows.
-
 - **Tech:** Python · Deep Learning · Computer Vision
 
----
+<br/>
 
 ## Tech Stack
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4FB477?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F2B84B?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-9B7FD4?style=flat-square&logo=kotlin&logoColor=white)
+
+**AI / LLM & Automation**
+
+![LangChain](https://img.shields.io/badge/LangChain-4FC7C3?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-EF6C8E?style=flat-square&logo=graphql&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4FA8E0?style=flat-square&logo=databricks&logoColor=white)
+![AI Automation](https://img.shields.io/badge/AI_Automation-9B7FD4?style=flat-square&logo=zapier&logoColor=white)
 
 **Libraries & Frameworks**
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-4FB477?style=flat-square&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-F2B84B?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EF6C8E?style=flat-square&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4FA8E0?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-9B7FD4?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-4FC7C3?style=flat-square&logo=scikit-learn&logoColor=white)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-EF6C8E?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-2B2B2B?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-4FA8E0?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F2B84B?style=flat-square&logo=jupyter&logoColor=white)
 
----
+<br/>
 
 ## Interests
 
 - Machine Learning & Deep Learning
 - Computer Vision (Face Recognition, Pose Detection, Object Detection)
+- LLM Agents, RAG Pipelines & AI Automation
 - Human Behavior Analysis using Biological Signals (EEG / EMG)
 - Real-time AI Systems
 - Blockchain for Authentication Systems
 - Building practical, deployable AI solutions
 
----
+<br/>
 
 ## Currently Learning
 
+- LangChain & LangGraph for agentic workflows
+- Retrieval-Augmented Generation (RAG) system design
 - Advanced Machine Learning
 - Data Structures & Algorithms
 - Database Management Systems (for system design)
 - Prompt Engineering
 
----
+<br/>
 
 ## Recognition
 
-**University Hackathon Winner** — building deployable AI prototypes that solve real-world problems.
+🏆 **University Hackathon Winner** — building deployable AI prototypes that solve real-world problems.
+
+<br/>
+
+<div align="center">
+
+*Thanks for stopping by — always open to collaborating on AI/ML and automation projects.*
+
+</div>
