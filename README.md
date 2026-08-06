@@ -32,21 +32,34 @@ I build real-world AI and computer vision systems focused on solving practical p
 </div>
 
 
-
 <br/>
 
 ## Currently Working On
 
 | Project | Status |
 |---|---|
-| Person Recognition System (face-based identification) | 🟢 Active |
-| Missing Person Identification System (age progression via ML) | 🟢 Active |
-| YOLO-based Object Detection Model | 🟢 Active |
-| Hand Gesture Controlled Mouse using OpenCV & MediaPipe | 🟢 Active |
+| AI Meeting Assistant (Whisper + Sarvam AI + RAG Chat) | 🟢 Active |
+| WhatsApp RAG Assistant for COER University | 🟢 Active |
+
+**AI Meeting Assistant**
+→ Takes any YouTube URL or audio/video file as input → Transcribes English meetings using local Whisper AI → Transcribes Hindi & Hinglish meetings using Sarvam AI → Summarises the full meeting in bullet points → Extracts action items with owner and deadline → Extracts key decisions made in the meeting → Extracts open questions and follow-ups → Lets you chat with your meeting using RAG + ChromaDB → Exports full report as PDF or TXT
+
+**WhatsApp RAG Assistant for COER University**
+A 24/7 WhatsApp chatbot that gives COER University students instant, accurate answers to academic queries by retrieving information directly from the department's official documents — never guessing.
 
 <br/>
 
 ## Featured Projects
+
+### 🔍 [Deep Research Agent](https://github.com/100Rabh-19/Deep-Research-Agent)
+A professional Streamlit app that uses LangChain, Tavily search, web scraping, and Hugging Face models to generate and critique structured research reports through a multi-agent workflow.
+- **Focus:** Autonomous research & report generation with self-critique
+- **Tech:** LangChain · Multi-Agent Workflow · Tavily Search · Web Scraping · Hugging Face · Streamlit · Python
+
+### 💬 [RLT — WhatsApp RAG Student Assistant](https://github.com/100Rabh-19/RLT)
+A WhatsApp-based RAG assistant that automates student support for project registration, departments, SOPs, and lab resources — including AI-driven form automation that conversationally collects details and generates pre-filled official documents.
+- **Focus:** Conversational RAG + document automation, end-to-end on WhatsApp
+- **Tech:** LangChain · RAG · ChromaDB · Hugging Face Embeddings · MultiQueryRetriever · FastAPI · Twilio WhatsApp API · ngrok
 
 ### Missing Person Identification System
 A machine learning system that predicts how a person would look after several years using age progression techniques.
