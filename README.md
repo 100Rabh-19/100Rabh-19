@@ -18,13 +18,6 @@ I build real-world AI and computer vision systems focused on solving practical p
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=100Rabh-19&background=F0EAD6&border=2B2B2B&stroke=2B2B2B&ring=EF6C8E&fire=F2B84B&currStreakLabel=2B2B2B&currStreakNum=2B2B2B&sideNums=2B2B2B&sideLabels=2B2B2B&dates=6B6B6B&hide_border=false" alt="GitHub Streak" height="180"/>
-
-</div>
 
 <br/>
 
